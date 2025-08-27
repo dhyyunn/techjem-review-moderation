@@ -1,20 +1,9 @@
-# Python
-__pycache__/
-*.py[cod]
-*.egg-info/
-.venv/
-venv/
-.env
-
-# Data & models
-data/raw/
-data/interim/
+data/*
+!data/README_DATA.md
+.kaggle/
+*.zip
+*.gz
 *.parquet
-*.h5
-*.pt
-*.bin
-models/
-reports/figs/
-
-# OS
+.ipynb_checkpoints/
+__pycache__/
 .DS_Store
