@@ -1,0 +1,21 @@
+{
+  "labels": [
+    "advertisement_promo",
+    "irrelevant_content",
+    "rant_without_visit",
+    "spam_or_scam",
+    "low_quality"
+  ],
+  "thresholds": {
+    "rule_ads": 0.5,
+    "rule_irrelevant": 0.5,
+    "rule_rant_no_visit": 0.5,
+    "rule_spam": 0.5,
+    "rule_low_quality": 0.5,
+    "ml": 0.5,
+    "relevancy_tau": 0.25
+  },
+  "relevancy_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "sentence_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "transformer_model": "distilbert-base-uncased"
+}

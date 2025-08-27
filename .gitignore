@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# Data & models
+data/raw/
+data/interim/
+*.parquet
+*.h5
+*.pt
+*.bin
+models/
+reports/figs/
+
+# OS
+.DS_Store
