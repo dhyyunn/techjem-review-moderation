@@ -1,4 +1,7 @@
-# TechJem Review Moderation — Day 3 Draft
+# TechJem Review Moderation - README file
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/dhyyunn/techjem-review-moderation/blob/main/notebooks/TechJem_ReviewModeration.ipynb)
+
 Generated: 2025-08-28 06:34
 ## What’s included
 - Day-2 model with metadata features
