@@ -15,6 +15,6 @@ Updated: 2025-08-28 06:44
 - Confusion matrix: /content/drive/MyDrive/TechJemShared/results/cm_day2_baseline.png
 - Demo predictions: /content/drive/MyDrive/TechJemShared/results/demo_predictions_day3.csv
 ## Demo video
-- YouTube link: <PASTE HERE>
+- YouTube link: https://youtu.be/_LMe1Eg6Bys?si=AjfxrYP_P7JOJ6Td
 ## How to run
 - See root README or Day-2 notebook.

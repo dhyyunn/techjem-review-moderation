@@ -30,3 +30,7 @@ Generated: 2025-08-28 06:34
 - Day 2 summary: `results/DAY2_SUMMARY.md`
 - Demo sample predictions: `results/demo_predictions_day3_sample.csv`
 - Devpost draft: `submission/DEVPOST.md`
+
+
+## Demo video
+- YouTube: https://youtu.be/_LMe1Eg6Bys?si=AjfxrYP_P7JOJ6Td
